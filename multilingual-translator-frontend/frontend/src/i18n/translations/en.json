@@ -1,0 +1,51 @@
+{
+  "app": {
+    "title": "Multilingual Real-Time Translation",
+    "subtitle": "Translate speech in real-time for Zoom meetings"
+  },
+  "tabs": {
+    "microphone": "Microphone",
+    "zoom": "Zoom Meeting"
+  },
+  "language": {
+    "interface": "Interface Language",
+    "source": "Source Language",
+    "target": "Target Language",
+    "detected": "Detected: {{language}}",
+    "auto": "Auto Detect",
+    "autoTarget": "Target language is automatically selected based on detected source language, but you can manually override it below."
+  },
+  "audio": {
+    "start": "Start Capturing",
+    "stop": "Stop Capturing",
+    "connecting": "Connecting...",
+    "connected": "Connected",
+    "disconnected": "Disconnected",
+    "connectZoom": "Connect to Zoom",
+    "disconnectZoom": "Disconnect from Zoom"
+  },
+  "transcription": {
+    "title": "Transcription",
+    "original": "Original Text",
+    "translated": "Translated Text",
+    "noContent": "No transcription available yet. Start capturing audio to see transcription."
+  },
+  "recording": {
+    "title": "Recording Storage",
+    "save": "Save Current Session",
+    "download": "Download",
+    "noRecordings": "No recordings saved yet."
+  },
+  "audioRecorder": {
+    "title": "Audio Recording",
+    "start": "Start Recording",
+    "stop": "Stop Recording",
+    "save": "Save Audio & Text",
+    "preview": "Preview Recording",
+    "pureMode": "Record without translation (for Tencent meetings or pure Chinese/English recording)",
+    "started": "Recording started",
+    "stopped": "Recording stopped. You can now save the audio.",
+    "saved": "Recording and text saved successfully",
+    "noRecording": "No recording to save"
+  }
+}

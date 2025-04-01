@@ -1,0 +1,51 @@
+{
+  "app": {
+    "title": "다국어 실시간 번역",
+    "subtitle": "Zoom 회의를 위한 실시간 음성 번역"
+  },
+  "tabs": {
+    "microphone": "마이크",
+    "zoom": "Zoom 회의"
+  },
+  "language": {
+    "interface": "인터페이스 언어",
+    "source": "원본 언어",
+    "target": "대상 언어",
+    "detected": "감지됨: {{language}}",
+    "auto": "자동 감지",
+    "autoTarget": "대상 언어는 감지된 원본 언어를 기반으로 자동 선택되지만, 아래에서 수동으로 변경할 수 있습니다."
+  },
+  "audio": {
+    "start": "캡처 시작",
+    "stop": "캡처 중지",
+    "connecting": "연결 중...",
+    "connected": "연결됨",
+    "disconnected": "연결 해제됨",
+    "connectZoom": "Zoom에 연결",
+    "disconnectZoom": "Zoom 연결 해제"
+  },
+  "transcription": {
+    "title": "텍스트 변환",
+    "original": "원본 텍스트",
+    "translated": "번역된 텍스트",
+    "noContent": "아직 사용 가능한 텍스트 변환이 없습니다. 오디오 캡처를 시작하여 텍스트 변환을 확인하세요."
+  },
+  "recording": {
+    "title": "녹음 저장",
+    "save": "현재 세션 저장",
+    "download": "다운로드",
+    "noRecordings": "아직 저장된 녹음이 없습니다."
+  },
+  "audioRecorder": {
+    "title": "오디오 녹음",
+    "start": "녹음 시작",
+    "stop": "녹음 중지",
+    "save": "오디오 및 텍스트 저장",
+    "preview": "녹음 미리보기",
+    "pureMode": "번역 없이 녹음 (텐센트 회의 또는 순수 중국어/영어 녹음용)",
+    "started": "녹음이 시작되었습니다",
+    "stopped": "녹음이 중지되었습니다. 이제 오디오를 저장할 수 있습니다.",
+    "saved": "녹음 및 텍스트가 성공적으로 저장되었습니다",
+    "noRecording": "저장할 녹음이 없습니다"
+  }
+}

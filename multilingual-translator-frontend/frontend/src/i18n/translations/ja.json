@@ -1,0 +1,51 @@
+{
+  "app": {
+    "title": "多言語リアルタイム翻訳",
+    "subtitle": "Zoomミーティング用のリアルタイム音声翻訳"
+  },
+  "tabs": {
+    "microphone": "マイク",
+    "zoom": "Zoomミーティング"
+  },
+  "language": {
+    "interface": "インターフェース言語",
+    "source": "ソース言語",
+    "target": "ターゲット言語",
+    "detected": "検出: {{language}}",
+    "auto": "自動検出",
+    "autoTarget": "ターゲット言語は検出されたソース言語に基づいて自動的に選択されますが、以下で手動で上書きできます。"
+  },
+  "audio": {
+    "start": "キャプチャ開始",
+    "stop": "キャプチャ停止",
+    "connecting": "接続中...",
+    "connected": "接続済み",
+    "disconnected": "切断済み",
+    "connectZoom": "Zoomに接続",
+    "disconnectZoom": "Zoomから切断"
+  },
+  "transcription": {
+    "title": "文字起こし",
+    "original": "原文",
+    "translated": "翻訳テキスト",
+    "noContent": "まだ利用可能な文字起こしはありません。音声キャプチャを開始して文字起こしを確認してください。"
+  },
+  "recording": {
+    "title": "録音ストレージ",
+    "save": "現在のセッションを保存",
+    "download": "ダウンロード",
+    "noRecordings": "まだ録音が保存されていません。"
+  },
+  "audioRecorder": {
+    "title": "音声録音",
+    "start": "録音開始",
+    "stop": "録音停止",
+    "save": "音声とテキストを保存",
+    "preview": "録音プレビュー",
+    "pureMode": "翻訳なしで録音（テンセントミーティングまたは純粋な中国語/英語録音用）",
+    "started": "録音を開始しました",
+    "stopped": "録音を停止しました。音声を保存できます。",
+    "saved": "録音とテキストが正常に保存されました",
+    "noRecording": "保存する録音がありません"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "app": {
+    "title": "多语言实时翻译",
+    "subtitle": "为Zoom会议实时翻译语音"
+  },
+  "tabs": {
+    "microphone": "麦克风",
+    "zoom": "Zoom会议"
+  },
+  "language": {
+    "interface": "界面语言",
+    "source": "源语言",
+    "target": "目标语言",
+    "detected": "检测到: {{language}}",
+    "auto": "自动检测",
+    "autoTarget": "目标语言根据检测到的源语言自动选择，但您可以在下方手动覆盖。"
+  },
+  "audio": {
+    "start": "开始捕获",
+    "stop": "停止捕获",
+    "connecting": "连接中...",
+    "connected": "已连接",
+    "disconnected": "已断开",
+    "connectZoom": "连接到Zoom",
+    "disconnectZoom": "断开Zoom连接"
+  },
+  "transcription": {
+    "title": "转录",
+    "original": "原文",
+    "translated": "翻译文本",
+    "noContent": "尚无可用转录。开始捕获音频以查看转录。"
+  },
+  "recording": {
+    "title": "录音存储",
+    "save": "保存当前会话",
+    "download": "下载",
+    "noRecordings": "尚未保存录音。"
+  },
+  "audioRecorder": {
+    "title": "音频录制",
+    "start": "开始录制",
+    "stop": "停止录制",
+    "save": "保存音频和文本",
+    "preview": "预览录音",
+    "pureMode": "不翻译录制（用于腾讯会议或纯中文/英文录制）",
+    "started": "录制开始",
+    "stopped": "录制停止。您现在可以保存音频。",
+    "saved": "录音和文本保存成功",
+    "noRecording": "没有可保存的录音"
+  }
+}
